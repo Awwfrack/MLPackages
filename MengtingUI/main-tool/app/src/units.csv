@@ -1,0 +1,56 @@
+Standardized Unit,Unit Definition,Unit Type,Unit Industry
+%,Percentage,,
+kgCO2,kilograms of carbon dioxide ,Absolute,NA
+kgCO2e,kilograms of carbon dioxide-equivalents ,Absolute,NA
+tCO2,tonnes of carbon dioxide,Absolute,NA
+tCO2e,tonnes of carbon dioxide-equivalents,Absolute,NA
+ktCO2,kilotonnes of carbon dioxide ,Absolute,NA
+ktCO2e,kilotonnes of carbon dioxide-equivalents,Absolute,NA
+mtCO2,million tonnes of carbon dioxide ,Absolute,NA
+mtCO2e,million tonnes of carbon dioxide-equivalents,Absolute,NA
+MtCO2,megatonnes of carbon dioxide,Absolute,NA
+MtCO2e,megatonnes of carbon dioxide-equivalents,Absolute,NA
+tCO2e/GWh,tonnes of carbon dioxide-equivalents emitted per gigawatt hour of energy ,Intensity,Power_Generation
+ktCO2e/GWh,kilotonnes of carbon dioxide-equivalents emitted per gigawatt hour of energy ,Intensity,Power_Generation
+kgCO2e/MWh,kilograms of carbon dioxide-equivalents emitted per megawatt hour of energy ,Intensity,Power_Generation
+tCO2e/MWh,tonnes of carbon dioxide-equivalents emitted per megawatt hour of energy ,Intensity,Power_Generation
+gCO2e/kWh,grams of carbon dioxide-equivalents emitted per kilowatt hour of energy ,Intensity,Power_Generation
+kgCO2e/kWh,kilograms of carbon dioxide-equivalents emitted per kilowatt hour of energy ,Intensity,Power_Generation
+ktCO2e/TWh,kilotonnes of carbon dioxide-equivalents emitted per terawatt hour of energy ,Intensity,Power_Generation
+MtCO2e/TWh,megatonnes of carbon dioxide-equivalents emitted per terawatt hour of energy ,Intensity,Power_Generation
+kgCO2e/GJ,kilograms of carbon dioxide-equivalents emitted per gigajoule of energy ,Intensity,Oil_and_Gas
+tCO2e/GJ,tonnes of carbon dioxide-equivalents emitted per gigajoule of energy ,Intensity,Oil_and_Gas
+gCO2e/MJ,grams of carbon dioxide-equivalents emitted per megajoule of energy ,Intensity,Oil_and_Gas
+kgCO2e/MJ,kilograms of carbon dioxide-equivalents emitted per megajoule of energy ,Intensity,Oil_and_Gas
+kgCO2/Barrel of Oil Equivalent (boe),kilograms of carbon dioxide-equivalents emitted per barrel of oil equivalent,Intensity,Oil_and_Gas
+tCO2/Barrel of Oil Equivalent (boe),tonnes of carbon dioxide-equivalents emitted per barrel of oil equivalent,Intensity,Oil_and_Gas
+kgCO2e/t cement,kilograms of carbon dioxide-equivalents emitted per tonne of cement ,Intensity,Cement
+tCO2e/t cement,tonnes of carbon dioxide-equivalents emitted per tonne of cement ,Intensity,Cement
+gCO2e/kg cement,grams of carbon dioxide-equivalents emitted per kilogram of cement ,Intensity,Cement
+kgCO2e/kg cement,kilograms of carbon dioxide-equivalents emitted per kilogram of cement ,Intensity,Cement
+kgCO2e/t metal,kilograms of carbon dioxide-equivalents emitted per tonne of metal ,Intensity,Iron_Steel_and_Aluminium
+tCO2e/t metal,tonnes of carbon dioxide-equivalents emitted per tonne of metal ,Intensity,Iron_Steel_and_Aluminium
+gCO2e/kg metal,grams of carbon dioxide-equivalents emitted per kilogram of metal ,Intensity,Iron_Steel_and_Aluminium
+kgCO2e/kg metal,kilograms of carbon dioxide-equivalents emitted per kilogram of metal ,Intensity,Iron_Steel_and_Aluminium
+gCO2e/revenue passenger kilometre (rpk),grams of carbon dioxide-equivalents emitted per kilometre  by paying passenger,Intensity,Aviation
+kgCO2e/revenue passenger kilometre (rpk),kilograms of carbon dioxide-equivalents emitted per kilometre  by paying passenger,Intensity,Aviation
+tCO2e/million vehicle kilometre (vkm),tonnes of carbon dioxide-equivalents emitted per million vehicle kilometre ,Intensity,Automotive
+ktCO2e/million vehicle kilometre (vkm),kilotonnes of carbon dioxide-equivalents emitted per million vehicle kilometre ,Intensity,Automotive
+gCO2e/vehicle kilometre (vkm),grams of carbon dioxide-equivalents emitted per vehicle kilometre ,Intensity,Automotive
+kgCO2e/vehicle kilometre (vkm),kilograms of carbon dioxide-equivalents emitted per vehicle kilometre ,Intensity,Automotive
+kgCO2e/t coal,kilograms of carbon dioxide-equivalents emitted per tonne of coal ,Intensity,Coal_Mining
+tCO2e/t coal,tonnes of carbon dioxide-equivalents emitted per tonne of coal ,Intensity,Coal_Mining
+gCO2e/kg coal,grams of carbon dioxide-equivalents emitted per kilogram of coal ,Intensity,Coal_Mining
+kgCO2e/kg coal,kilograms of carbon dioxide-equivalents emitted per kilogram of coal ,Intensity,Coal_Mining
+gCO2e/tonne kilometre (tkm),grams of carbon dioxide-equivalents emitted per tonne kilometre ,Intensity,Shipping
+kgCO2e/tonne kilometre (tkm),kilograms of carbon dioxide-equivalents emitted  per tonne kilometre ,Intensity,Shipping
+kgCO2e/t fertiliser,kilograms of carbon dioxide-equivalents emitted per tonne of fertiliser ,Intensity,Agriculture
+tCO2e/t fertiliser,tonnes of carbon dioxide-equivalents emitted per tonne of fertiliser ,Intensity,Agriculture
+gCO2e/kg fertiliser,grams of carbon dioxide-equivalents emitted per kilogram of fertiliser ,Intensity,Agriculture
+kgCO2e/kg fertiliser,kilograms of carbon dioxide-equivalents emitted per kilogram of fertiliser ,Intensity,Agriculture
+kgCO2e/square metre (sqm),kilograms of carbon dioxide-equivalents emitted per square metre ,Intensity,Real_Estate
+tCO2e/square metre (sqm),tonnes of carbon dioxide-equivalents emitted per square metre ,Intensity,Real_Estate
+tCO2e/USD$ revenue,tonnes of carbon dioxide-equivalents emitted per USD revenue ,Intensity,Other
+tCO2e/t product,tonnes of carbon dioxide-equivalents emitted per tonne of product ,Intensity,Other
+tCO2e/unit production,tonnes of carbon dioxide-equivalents emitted per unit of product ,Intensity,Other
+tCO2e/Full Time Employee,tonnes of carbon dioxide-equivalents emitted per full time employee ,Intensity,Other

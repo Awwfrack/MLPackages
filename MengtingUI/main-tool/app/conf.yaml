@@ -1,0 +1,6 @@
+gcs_bucket: "gs://myhsbcuibucket" # TO BE REPLACED BY THE ACTUAL HSBC BUCKET
+local_store: "./myuilocalstore/"
+cache_directory: "./myuicachedirectory/"
+
+valid_user_name_password_pairs: 
+  hello-quantiphi: world-hsbc
