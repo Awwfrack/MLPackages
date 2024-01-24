@@ -1,9 +1,0 @@
-name: harpdoc
-channels:
-  - conda-forge
-dependencies:
-  - breathe
-  - doxygen
-  - sphinx
-  - sphinx-autobuild
-  - sphinx_rtd_theme
