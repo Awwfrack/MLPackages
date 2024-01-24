@@ -1,5 +1,5 @@
 pandas
-pymupdf==1.18.12
+# pymupdf==1.18.12
 dash-ag-grid==2.3.0
 dash==2.9.3
 dash-bootstrap-components==1.5.0
